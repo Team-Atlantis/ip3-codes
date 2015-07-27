@@ -6,3 +6,12 @@
   <footerrow>
   </footerrow>
 </ip3:list>
+
+<ip3:list listpath="listpath" template="">
+  <headerrow>
+  <headerrow>
+  <rows>
+  </rows>
+  <footerrow>
+  </footerrow>
+</ip3:list>
