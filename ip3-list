@@ -1,4 +1,4 @@
-<ip3:list listpath="listpath" template="">
+<ip3:list listpath="listpath" template="Template Name">
   <headerrow>
   <headerrow>
   <rows>
